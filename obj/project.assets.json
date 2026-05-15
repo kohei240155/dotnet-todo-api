@@ -89,7 +89,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/kohei/dev/dotnet-todo-api/dotnet-todo-api.csproj",
-      "projectName": "dotnet-todo-api",
+      "projectName": "TodoApi",
       "projectPath": "/Users/kohei/dev/dotnet-todo-api/dotnet-todo-api.csproj",
       "packagesPath": "/Users/kohei/.nuget/packages/",
       "outputPath": "/Users/kohei/dev/dotnet-todo-api/obj/",
