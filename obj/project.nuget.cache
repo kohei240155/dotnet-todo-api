@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/TJdSL6NuA=",
+  "success": true,
+  "projectFilePath": "/Users/kohei/dev/dotnet-todo-api/dotnet-todo-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/kohei/.nuget/packages/microsoft.aspnetcore.openapi/10.0.8/microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "/Users/kohei/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
